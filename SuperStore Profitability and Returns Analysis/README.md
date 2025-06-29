@@ -1,5 +1,8 @@
 **Superstore Profitability & Returns Analysis**
 
+**Link to Project**
+https://public.tableau.com/app/profile/erwin.cuison/viz/TableauSuperstoreAnalysis_17479396005710/ProfitbySubcategoryRegion?publish=yes
+
 **Overview**  
 This Tableau-driven project analyzes sales and returns data from the \*Superstore.xls\* dataset to uncover key insights that drive profitability and operational efficiency. The focus includes identifying profit centers, loss-makers, inefficient products, and strategic advertising opportunities.
 
