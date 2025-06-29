@@ -1,4 +1,4 @@
-                                                                 **Superstore Profitability & Returns Analysis**
+**Superstore Profitability & Returns Analysis**
 
 **Overview**  
 This Tableau-driven project analyzes sales and returns data from the \*Superstore.xls\* dataset to uncover key insights that drive profitability and operational efficiency. The focus includes identifying profit centers, loss-makers, inefficient products, and strategic advertising opportunities.
