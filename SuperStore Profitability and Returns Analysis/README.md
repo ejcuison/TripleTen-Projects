@@ -1,4 +1,4 @@
-**Superstore Profitability & Returns Analysis**
+# Superstore Profitability & Returns Analysis
 
 **Link to Project**
 https://public.tableau.com/app/profile/erwin.cuison/viz/TableauSuperstoreAnalysis_17479396005710/ProfitbySubcategoryRegion?publish=yes
