@@ -25,23 +25,17 @@ This Tableau-driven project analyzes sales and returns data from the \*Superstor
   \- Average profit vs. return rate by state
 
 **Key Findings**  
-\- Top Profit Centers:  
-  \- Copiers (West region)  
-  \- Chairs (East region)  
+\- Top Profit Centers: Copiers (West region) and Chairs (East region)  
     
-\- Top Loss Makers:  
-  \- Binders (Central region)  
-  \- Tables (East region)
+\- Top Loss Makers: Binders (Central region) and Tables (East region)
 
 \- Products to Eliminate:  
   \- Over 10 products with negative profit  
   \- Top candidate: \*GBC DocuBind P400 Electric Binding System\*
 
-\- Subcategories to Focus On:  
-  \- Copiers, Phones, Accessories
+\- Subcategories to Focus On: Copiers, Phones, Accessories
 
-\- Subcategories to Stop Selling:  
-  \- Tables, Bookcases, Supplies
+\- Subcategories to Stop Selling: Tables, Bookcases, Supplies
 
 \- Advertising Recommendations:  
   \- Best state & month combinations:  
