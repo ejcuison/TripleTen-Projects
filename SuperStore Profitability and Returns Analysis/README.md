@@ -1,5 +1,6 @@
 # Superstore Profitability & Returns Analysis
 ![image alt](https://github.com/ejcuison/TripleTen-Projects/blob/0c2d41ed2839e63fe94e5bec3655fa052a3cedfd/SuperStore%20Profitability%20and%20Returns%20Analysis/Profit%20by%20Subcategory%20and%20Region.png)
+![image alt](https://github.com/ejcuison/TripleTen-Projects/blob/79e4b8332a7ffc997ef062f953a352ad6212f9f6/SuperStore%20Profitability%20and%20Returns%20Analysis/Advertising%20Focus.png)
 **Link to Project**
 https://public.tableau.com/app/profile/erwin.cuison/viz/TableauSuperstoreAnalysis_17479396005710/ProfitbySubcategoryRegion?publish=yes
 
