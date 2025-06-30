@@ -22,23 +22,23 @@ This project is a data storytelling presentation built in Tableau, focused on an
 
 2\. **Visualizations**  
    \- Scatterplot: Correlation between total sales and total returns (by product subcategory).  
-   \- \*\*Bar Chart\*\*: Return rate by product category.  
-   \- \*\*Customer Filter\*\*: Removed customers with only one order.  
-   \- \*\*Map\*\*: Geographic distribution of return rates (by state).  
-   \- \*\*Time Analysis\*\*: Return rate by time (month, week).  
-   \- \*\*Composite Chart\*\*: Return rates across multiple factors (date, geography, category).
+   \- Bar Chart: Return rate by product category.  
+   \- Customer Filter: Removed customers with only one order.  
+   \- Map: Geographic distribution of return rates (by state).  
+   \- Time Analysis: Return rate by time (month, week).  
+   \- Composite Chart: Return rates across multiple factors (date, geography, category).
 
-3\. \*\*Dashboard Design\*\*  
+3\. **Dashboard Design**  
    \- Documented design requirements.  
    \- Created low-fidelity mockups and dashboard templates.  
    \- Finalized dashboard with images, titles, and markers.
 
-4\. \*\*Storytelling\*\*  
+4\. **Storytelling**  
    \- Drafted a story arc with Tableau Story Points.  
    \- Included summary, dashboard overview, root cause analysis using filters, and proposed actions.  
    \- Delivered a 3–5 minute presentation.
 
-\#\# Insights & Recommendations
+## Insights & Recommendations
 
 \- \*\*Return Rate Drivers\*\*: Product subcategory, shipping mode, state, and month.  
 \- \*\*Problem Subcategories\*\*: Machines, Fasteners, Chairs, Appliances, Tables.  
