@@ -1,13 +1,56 @@
-# TripleTen_projects
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+\# SuperStore Returns Analysis (Tableau Storytelling Project)
 
+\#\# Overview
 
-| Project number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | Fresh Beats Analysis| The project task was to analyze user data and understand the factors that influence artist promotion effectiveness, user engagement and conversion, and the content recommendation system for a dynamic online streaming platform. |
-| 2 | Advanced Spreadsheets: NYC Airbnb Insights | The project task was to analyze the Manhattan vacation rental market to determine which neighborhoods and property sizes are most attractive for vacation rentals, and how much revenue these listings generate. |
-| 3 | The Zuber Database | The project task was to find patterns in the database of a new ride-sharing company to understand passenger preferences and the impact of external factors on rides.  |
-| 4 | E-commerce Metrics | The project task was to help an e-commerce company uncover website conversions, cohort activity and retention rates. |
-| 5 | SuperStore Profitability and Returns Analysis | The project task was to help SuperStore review their operations, increase profitability and avoid bankruptcy. |
-| 6 | Storytelling: SuperStore Presentation | The project task was to deliver an executive presentation to SuperStore's CEO to help them understand what's causing high returns, and suggestions to circumvent the issue. |
-| 7 | Shopify App Analysis | The project task was to review the landscape of apps on the Shopify platform to figure out what key factors play into the success of a Shopify app. |
+This project is a data storytelling presentation built in Tableau, focused on analyzing product returns using the SuperStore dataset. The goal is to uncover key patterns in return rates across different dimensions and provide actionable recommendations for reducing returns.
+
+\#\# Data Source
+
+\- \*\*File\*\*: \`Superstore.xls\`  
+\- \*\*Tables\*\*: \`Orders\`, \`People\`, \`Returns\`
+
+\#\# Tools Used
+
+\- \*\*Tableau Desktop\*\*
+
+\#\# Key Steps
+
+1\. \*\*Data Preparation\*\*  
+   \- Left joined \`Returns\` table onto \`Orders\`.  
+   \- Created a calculated field: \`Returned\` (1 for "Yes", 0 for null).  
+   \- Derived return rate as the average of the \`Returned\` field.
+
+2\. \*\*Visualizations\*\*  
+   \- \*\*Scatterplot\*\*: Correlation between total sales and total returns (by product subcategory).  
+   \- \*\*Bar Chart\*\*: Return rate by product category.  
+   \- \*\*Customer Filter\*\*: Removed customers with only one order.  
+   \- \*\*Map\*\*: Geographic distribution of return rates (by state).  
+   \- \*\*Time Analysis\*\*: Return rate by time (month, week).  
+   \- \*\*Composite Chart\*\*: Return rates across multiple factors (date, geography, category).
+
+3\. \*\*Dashboard Design\*\*  
+   \- Documented design requirements.  
+   \- Created low-fidelity mockups and dashboard templates.  
+   \- Finalized dashboard with images, titles, and markers.
+
+4\. \*\*Storytelling\*\*  
+   \- Drafted a story arc with Tableau Story Points.  
+   \- Included summary, dashboard overview, root cause analysis using filters, and proposed actions.  
+   \- Delivered a 3–5 minute presentation.
+
+\#\# Insights & Recommendations
+
+\- \*\*Return Rate Drivers\*\*: Product subcategory, shipping mode, state, and month.  
+\- \*\*Problem Subcategories\*\*: Machines, Fasteners, Chairs, Appliances, Tables.  
+\- \*\*Actionable Steps\*\*:  
+  \- Investigate or stop selling top 3–5 returned subcategories.  
+  \- Reduce marketing focus in Utah, Oregon, and California.  
+  \- Eliminate same-day shipping to reduce return likelihood.  
+  \- Monitor and limit risk during high-return months (August–December, excluding November).
+
+\#\# Conclusion
+
+This Tableau project presents a clear, data-driven narrative to understand and mitigate product returns. It provides both strategic and tactical recommendations backed by visual analysis.
+
+\---
+
