@@ -11,7 +11,7 @@ This project is a data storytelling presentation built in Tableau, focused on an
 
 ## Tools Used
 
-\- \Tableau Desktop\
+\- Tableau Desktop
 
 ## Key Steps
 
