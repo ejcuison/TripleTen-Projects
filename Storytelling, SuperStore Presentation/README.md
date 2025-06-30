@@ -40,15 +40,15 @@ This project is a data storytelling presentation built in Tableau, focused on an
 
 ## Insights & Recommendations
 
-\- \*\*Return Rate Drivers\*\*: Product subcategory, shipping mode, state, and month.  
-\- \*\*Problem Subcategories\*\*: Machines, Fasteners, Chairs, Appliances, Tables.  
-\- \*\*Actionable Steps\*\*:  
+\- **Return Rate Drivers**: Product subcategory, shipping mode, state, and month.  
+\- **Problem Subcategories**: Machines, Fasteners, Chairs, Appliances, Tables.  
+\- **Actionable Steps**:  
   \- Investigate or stop selling top 3–5 returned subcategories.  
   \- Reduce marketing focus in Utah, Oregon, and California.  
   \- Eliminate same-day shipping to reduce return likelihood.  
   \- Monitor and limit risk during high-return months (August–December, excluding November).
 
-\#\# Conclusion
+## Conclusion
 
 This Tableau project presents a clear, data-driven narrative to understand and mitigate product returns. It provides both strategic and tactical recommendations backed by visual analysis.
 
