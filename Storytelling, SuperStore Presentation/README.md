@@ -1,8 +1,8 @@
 # SuperStore Returns Analysis (Tableau Storytelling Project)
 
-** Link to Tableau: https://public.tableau.com/app/profile/erwin.cuison/viz/Sprint5Project-Tableau/AnalysisonSuperstoreReturns?publish=yes
+**Link to Tableau:** https://public.tableau.com/app/profile/erwin.cuison/viz/Sprint5Project-Tableau/AnalysisonSuperstoreReturns?publish=yes
 
-** Link to Presentation Recording: https://www.loom.com/share/26fbdd8c02c94ebdb9b9a0e9da266f0d?sid=d68dfec2-8b21-4a16-9430-b03087cf4b0a
+**Link to Presentation Recording:** https://www.loom.com/share/26fbdd8c02c94ebdb9b9a0e9da266f0d?sid=d68dfec2-8b21-4a16-9430-b03087cf4b0a
 
 ## Overview
 
