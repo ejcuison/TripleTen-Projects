@@ -1,26 +1,26 @@
-\# SuperStore Returns Analysis (Tableau Storytelling Project)
+# SuperStore Returns Analysis (Tableau Storytelling Project)
 
-\#\# Overview
+## Overview
 
 This project is a data storytelling presentation built in Tableau, focused on analyzing product returns using the SuperStore dataset. The goal is to uncover key patterns in return rates across different dimensions and provide actionable recommendations for reducing returns.
 
-\#\# Data Source
+## Data Source
 
-\- \*\*File\*\*: \`Superstore.xls\`  
-\- \*\*Tables\*\*: \`Orders\`, \`People\`, \`Returns\`
+**File**: \`Superstore.xls\`  
+**Tables**: \`Orders\`, \`People\`, \`Returns\`
 
-\#\# Tools Used
+## Tools Used
 
-\- \*\*Tableau Desktop\*\*
+\- \Tableau Desktop\
 
-\#\# Key Steps
+## Key Steps
 
-1\. \*\*Data Preparation\*\*  
+1\. **Data Preparation**  
    \- Left joined \`Returns\` table onto \`Orders\`.  
    \- Created a calculated field: \`Returned\` (1 for "Yes", 0 for null).  
    \- Derived return rate as the average of the \`Returned\` field.
 
-2\. \*\*Visualizations\*\*  
+2\. **Visualizations**  
    \- \*\*Scatterplot\*\*: Correlation between total sales and total returns (by product subcategory).  
    \- \*\*Bar Chart\*\*: Return rate by product category.  
    \- \*\*Customer Filter\*\*: Removed customers with only one order.  
