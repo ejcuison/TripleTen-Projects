@@ -21,7 +21,7 @@ This project is a data storytelling presentation built in Tableau, focused on an
    \- Derived return rate as the average of the \`Returned\` field.
 
 2\. **Visualizations**  
-   \- \*\*Scatterplot\*\*: Correlation between total sales and total returns (by product subcategory).  
+   \- Scatterplot: Correlation between total sales and total returns (by product subcategory).  
    \- \*\*Bar Chart\*\*: Return rate by product category.  
    \- \*\*Customer Filter\*\*: Removed customers with only one order.  
    \- \*\*Map\*\*: Geographic distribution of return rates (by state).  
