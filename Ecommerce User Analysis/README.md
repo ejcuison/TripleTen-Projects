@@ -2,6 +2,7 @@
 
 ![image alt](https://github.com/ejcuison/TripleTen-Projects/blob/95c9c55bb7a9d31d06f9b384e6b5585e9942a8f1/Ecommerce%20User%20Analysis/Conversion%20Funnel.png)
 ![image alt](https://github.com/ejcuison/TripleTen-Projects/blob/93ee1631d0fbee9f9c8479b65a512ace35a6ec4b/Ecommerce%20User%20Analysis/Retention%20Rates.png)
+![image alt](https://github.com/ejcuison/TripleTen-Projects/blob/4e53e1f353cf3c010356556db5a08dac59661f8b/Ecommerce%20User%20Analysis/Cohort%20Analysis.png)
 
 This project analyzes user behavior on an ecommerce website using funnel analysis and cohort retention modeling in Excel/Google Sheets. The goal is to understand user engagement, retention trends, and overall conversion performance.
 
