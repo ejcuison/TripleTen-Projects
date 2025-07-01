@@ -72,5 +72,4 @@ Google Sheets / Microsoft Excel
 
 ---
 
-## 📁 File Structure
 
