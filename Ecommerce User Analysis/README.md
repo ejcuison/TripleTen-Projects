@@ -1,0 +1,76 @@
+\# Ecommerce User Analysis
+
+This project analyzes user behavior on an ecommerce website using funnel analysis and cohort retention modeling in Excel/Google Sheets. The goal is to understand user engagement, retention trends, and overall conversion performance.
+
+\#\# 📊 Project Overview
+
+\*\*Objectives:\*\*  
+\- Create a conversion funnel to understand user behavior  
+\- Build acquisition cohorts based on users' first purchase month  
+\- Calculate retention rates by cohort and analyze patterns  
+\- Provide a clear, executive-level summary of findings
+
+\*\*Data Source:\*\*    
+\`BusinessAnalyticsProject.xls\` – raw user activity data
+
+\*\*Tools Used:\*\*    
+Google Sheets / Microsoft Excel
+
+\---
+
+\#\# ⚙️ Steps & Methodology
+
+1\. \*\*Conversion Funnel Creation\*\*  
+   \- Built a pivot table using \`raw\_user\_activity\`  
+   \- Added columns for overall and step-by-step conversion rates
+
+2\. \*\*Purchase Filtering\*\*  
+   \- Filtered only "purchase" events  
+   \- Created a \`purchase\_activity\` sheet with relevant data
+
+3\. \*\*First Purchase Identification\*\*  
+   \- Pivot table to find each user's first purchase date  
+   \- Used \`VLOOKUP()\` to add \`first\_purchase\_date\` to user rows
+
+4\. \*\*Cohort Grouping\*\*  
+   \- Added \`event\_month\`, \`first\_purchase\_month\`, and \`cohort\_age\` columns  
+   \- Used \`TEXT()\` and \`DATEDIF()\` for time transformations
+
+5\. \*\*Cohort Analysis\*\*  
+   \- Built a pivot table grouped by \`first\_purchase\_month\`  
+   \- Counted unique users per \`cohort\_age\`
+
+6\. \*\*Retention Rate Calculation\*\*  
+   \- Created a \`retention\_rates\` sheet  
+   \- Used formulas to calculate month-over-month retention by cohort
+
+7\. \*\*Executive Summary & Organization\*\*  
+   \- Added insights and visuals to an \`Executive Summary\` sheet  
+   \- Ordered tabs logically for easy navigation  
+   \- Cleaned up formatting for readability
+
+\---
+
+\#\# 📈 Key Results & Insights
+
+\- \*\*Conversion Funnel:\*\*  
+  \- \~30% of users reach the shopping cart page  
+  \- \~36% of those users complete a purchase
+
+\- \*\*Retention Trends:\*\*  
+  \- Highest retention seen in the September 2020 cohort  
+  \- Retention rates declined for cohorts from Oct–Dec 2020  
+  \- Starting January 2021, Month 1 retention showed slight improvement
+
+\---
+
+\#\# 🧠 Conclusion & Recommendations
+
+\- Focus on replicating elements of the September 2020 user experience to improve retention.  
+\- Investigate what changed in Jan 2021 that led to a rise in Month 1 retention—could inform future strategy.  
+\- Continue monitoring retention trends using updated cohort models to guide marketing and product decisions.
+
+\---
+
+\#\# 📁 File Structure
+
