@@ -4,6 +4,8 @@
 
 ![image alt](https://github.com/ejcuison/TripleTen-Projects/blob/af0283f3e1ba6d7ae0af3ca5e81e29a264de770f/SQL%20Zuber%20Database/Query%203.png)
 
+![image alt](https://github.com/ejcuison/TripleTen-Projects/blob/0720f76bae9f993aac1e458cc8e82517dbad0722/SQL%20Zuber%20Database/Query%206.png)
+
 ## Project Overview
 
 This project explores ride and weather data from the **Zuber** database using SQL. The analysis focuses on taxi ride patterns in November 2017, comparing company performance, evaluating weather impact on trip durations, and filtering specific trip routes by conditions.
