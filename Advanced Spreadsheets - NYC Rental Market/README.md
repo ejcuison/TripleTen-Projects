@@ -1,5 +1,7 @@
 # Advanced Spreadsheets: NYC Rental Market Analysis
 
+![image alt](https://github.com/ejcuison/TripleTen-Projects/blob/061704ebd8a1bb18831e824218da6e1aaa6bbe7a/Advanced%20Spreadsheets%20-%20NYC%20Rental%20Market/Top%2010%20Neighborhoods.png)
+
 ## Overview
 
 This project analyzes NYC Airbnb data to identify the most attractive neighborhoods and property sizes for vacation rentals, and to estimate potential revenue for top listings.
