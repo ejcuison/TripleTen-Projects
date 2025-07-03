@@ -4,6 +4,8 @@
 
 ![image alt](https://github.com/ejcuison/TripleTen-Projects/blob/f39ddb4475cdfc6849a083df37754c9e37f9d5a7/Advanced%20Spreadsheets%20-%20NYC%20Rental%20Market/Popular%20Sizes%20per%20Top%20Neighborhood.png)
 
+![image alt](https://github.com/ejcuison/TripleTen-Projects/blob/ef1971738b284e440c778b3d35538365cbd610cb/Advanced%20Spreadsheets%20-%20NYC%20Rental%20Market/Top%20Listings%20By%20Revenue.png)
+
 ## Overview
 
 This project analyzes NYC Airbnb data to identify the most attractive neighborhoods and property sizes for vacation rentals, and to estimate potential revenue for top listings.
